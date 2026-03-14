@@ -1,0 +1,1 @@
+# Tkinter já vem com Python na maioria dos sistemas.
